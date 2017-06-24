@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/hyekyunghwang/myfirstblog.git",
+  "PROJECT_NAME":"mysite",
+  "REMOTE_HOST":"djangogirls-seoul-hyekyung-tutorial.tk",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
